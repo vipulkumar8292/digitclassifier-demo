@@ -1,0 +1,6 @@
+Step1. pip install flask
+Step2. pip install flask-wtf
+Step3. pip install tensorflow2.0.0a0
+Step4. pip install scikit-learn
+Step5. pip install gunicorn
+Step6. pip freeze > requirements.txt
